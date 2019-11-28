@@ -1,0 +1,4 @@
+﻿  P15.c
+C:\Users\zhija\Desktop\108360210_陳治嘉\P15\source\P15.c(14,15): warning C4047: '函式': 'int *const ' 與 'int (*)[10]' 間接取值的層級不同
+C:\Users\zhija\Desktop\108360210_陳治嘉\P15\source\P15.c(14,15): warning C4024: 'bubblesort': 型式和實質參數 1 不同的類型
+  P15.vcxproj -> C:\Users\zhija\Desktop\108360210_陳治嘉\P15\HW\P15\Debug\P15.exe
