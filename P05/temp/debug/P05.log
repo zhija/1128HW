@@ -1,0 +1,5 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(437,5): warning MSB8004: Intermediate Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Intermediate Directory.
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(438,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  P05.c
+C:\Users\zhija\Desktop\108360210_陳治嘉\P05\source\P05.c(9,97): error C2100: 不合法的間接取值
+C:\Users\zhija\Desktop\108360210_陳治嘉\P05\source\P05.c(9,9): warning C4477: 'printf' : 格式字串 '%p' 需要 'void *' 類型的引數，但 variadic 引數 2 的類型為 'int'
